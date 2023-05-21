@@ -5,8 +5,8 @@ ITMO SE Student
 ---------------
 
 * 🌍  I'm based in St. Petersburg, Russia
-* 🚀  I'm currently working on [programming Lab5](https://github.com/chuck-cheese/lab5-prog/tree/dev)
-* 🧠  I'm learning Java Core
+* 🚀  I'm currently working on [Programming lab #6]()
+* 🧠  I'm learning Spring Core
 
 ### Skills
 
