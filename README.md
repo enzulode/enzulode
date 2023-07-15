@@ -5,8 +5,8 @@ ITMO SE Student
 ---------------
 
 * 🌍  I'm based in St. Petersburg, Russia
-* 🚀  I'm currently working on [Programming lab #7]()
-* 🧠  I'm learning Spring Core
+* 🚀  I'm currently working on [pet projects]()
+* 🧠  I'm learning Spring Core, Spring AMQP
 
 ### Skills
 
